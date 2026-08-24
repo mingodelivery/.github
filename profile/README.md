@@ -209,21 +209,30 @@ Mingo does not need to maximize revenue on each restaurant order. The model beco
 
 ## Engineering the Mingo Network
 
-Mingo did not begin as a marketplace concept. Its foundation was built through real restaurant commerce and delivery operations, beginning with Taaza Kitchen and evolving into the connected Mingo platform.
+Mingo grew from real restaurant commerce engineering into a connected restaurant, delivery and operational platform.
+
+### Sustained Engineering
+
+<div align="center">
+  <img src="./assets/graphics/mingo-lead-engineering-activity.svg" alt="Lead Engineering Activity" width="100%" />
+</div>
+
+**3524 GitHub contributions &middot; last 12 months**
+
+<sub>
+Aggregate GitHub engineering activity from Mingo's lead platform engineering.<br />
+Private contribution details remain anonymized by GitHub.
+</sub>
+
+<br />
+
+### Mingo Platform Development
+
+From ordering and restaurant operations to marketplace, delivery and operational intelligence, each stage expanded the same transaction platform.
 
 <div align="center">
   <img src="./assets/graphics/mingo-engineering-journey.svg" alt="Engineering Journey" width="100%" />
 </div>
-
-<br />
-
-From ordering and restaurant operations to marketplace, delivery and operational intelligence, each stage expanded the same transaction platform.
-
-**12 MONTH PLATFORM JOURNEY**
-- **1404** verified engineering commits
-- **86** active engineering days
-- **8** connected Mingo product applications
-- **5** major platform capability groups
 
 <br />
 
@@ -232,7 +241,7 @@ From ordering and restaurant operations to marketplace, delivery and operational
 </div>
 
 <sub>
-Aggregate, Git-verified engineering activity across Mingo's incubation and platform-development repositories. Duplicate histories are excluded. Source code and repository details remain private.<br />
+Git-verified engineering activity across Mingo's incubation and platform-development repositories. Duplicate histories are excluded. Source code and repository details remain private.<br />
 <em>Note: Early incubation engineering (Aug 2025 - Apr 2026) was performed prior to the current Git history baseline.</em>
 </sub>
 
