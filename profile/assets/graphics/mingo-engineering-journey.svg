@@ -20,24 +20,24 @@
   <g transform="translate(50, 110)">
     <line x1="10" y1="0" x2="10" y2="200" class="line" />
     <circle cx="10" cy="0" r="6" class="node" />
-    <text x="35" y="4" class="date"></text>
-    <text x="120" y="4" class="title">MINGO PLATFORM</text>
-    <text x="250" y="4" class="desc">— Restaurant operating foundation</text>
+    <text x="35" y="4" class="date">Jan–Apr 2026</text>
+    <text x="120" y="4" class="title">Foundation</text>
+    <text x="250" y="4" class="desc">— </text>
     <circle cx="10" cy="50" r="6" class="node" />
-    <text x="35" y="54" class="date"></text>
-    <text x="120" y="54" class="title">RESTAURANT COMMERCE</text>
-    <text x="250" y="54" class="desc">— Ordering · POS · Kitchen · Payments</text>
+    <text x="35" y="54" class="date">May–Jun 2026</text>
+    <text x="120" y="54" class="title">Restaurant operations</text>
+    <text x="250" y="54" class="desc">— </text>
     <circle cx="10" cy="100" r="6" class="node" />
-    <text x="35" y="104" class="date"></text>
-    <text x="120" y="104" class="title">DELIVERY NETWORK</text>
-    <text x="250" y="104" class="desc">— Marketplace · Rider · Delivery</text>
+    <text x="35" y="104" class="date">Jul 2026</text>
+    <text x="120" y="104" class="title">Delivery network</text>
+    <text x="250" y="104" class="desc">— </text>
     <circle cx="10" cy="150" r="6" class="node" />
-    <text x="35" y="154" class="date"></text>
-    <text x="120" y="154" class="title">PLATFORM INTELLIGENCE</text>
-    <text x="250" y="154" class="desc">— Admin · Operations · Mingo AI</text>
+    <text x="35" y="154" class="date">Aug 2026</text>
+    <text x="120" y="154" class="title">Platform intelligence</text>
+    <text x="250" y="154" class="desc">— </text>
     <circle cx="10" cy="200" r="6" class="node" />
-    <text x="35" y="204" class="date">ROADMAP</text>
-    <text x="120" y="204" class="title">MOBILITY</text>
-    <text x="250" y="204" class="desc">— Future expansion into local mobility</text>
+    <text x="35" y="204" class="date">Sep–Dec 2026</text>
+    <text x="120" y="204" class="title">Continuing expansion</text>
+    <text x="250" y="204" class="desc">— </text>
   </g>
 </svg>
