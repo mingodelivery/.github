@@ -207,23 +207,34 @@ Mingo does not need to maximize revenue on each restaurant order. The model beco
 
 *Mingo Core remains authoritative for transactional and financial truth. Mingo AI assists operations without replacing core business authorities. Core Mingo product repositories are private.*
 
-## Engineering the Mingo Network — From Incubation to Platform
+## Engineering the Mingo Network
 
-Mingo is being built as a connected operating platform across restaurant commerce, payments, POS, kitchen operations, delivery and operational intelligence.
+Mingo did not begin as a marketplace concept. Its foundation was built through real restaurant commerce and delivery operations, beginning with Taaza Kitchen and evolving into the connected Mingo platform.
 
 <div align="center">
-  <img src="./assets/graphics/mingo-engineering-activity.svg"
-       alt="Mingo engineering activity during the last 12 months"
-       width="100%" />
+  <img src="./assets/graphics/mingo-engineering-journey.svg" alt="Engineering Journey" width="100%" />
 </div>
 
-**1467 engineering commits &middot; 86 active development days &middot; Aug 2025 – Aug 2026**
+<br />
+
+From ordering and restaurant operations to marketplace, delivery and operational intelligence, each stage expanded the same transaction platform.
+
+**12 MONTH PLATFORM JOURNEY**
+- **1404** verified engineering commits
+- **86** active engineering days
+- **8** connected Mingo product applications
+- **5** major platform capability groups
+
+<br />
+
+<div align="center">
+  <img src="./assets/graphics/mingo-monthly-activity.svg" alt="Monthly Engineering Activity" width="100%" />
+</div>
 
 <sub>
-Aggregate engineering activity across Mingo's incubation and platform development history, including Taaza Kitchen commerce engineering and Mingo platform development.<br />
-Source code and repository details remain proprietary.
+Aggregate, Git-verified engineering activity across Mingo's incubation and platform-development repositories. Duplicate histories are excluded. Source code and repository details remain private.<br />
+<em>Note: Early incubation engineering (Aug 2025 - Apr 2026) was performed prior to the current Git history baseline.</em>
 </sub>
-
 
 <br />
 <div align="center">
