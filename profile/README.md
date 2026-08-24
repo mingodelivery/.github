@@ -207,7 +207,7 @@ Mingo does not need to maximize revenue on each restaurant order. The model beco
 
 *Mingo Core remains authoritative for transactional and financial truth. Mingo AI assists operations without replacing core business authorities. Core Mingo product repositories are private.*
 
-## Engineering the Mingo Network
+## Engineering the Mingo Network — From Incubation to Platform
 
 Mingo is being built as a connected operating platform across restaurant commerce, payments, POS, kitchen operations, delivery and operational intelligence.
 
@@ -217,10 +217,10 @@ Mingo is being built as a connected operating platform across restaurant commerc
        width="100%" />
 </div>
 
-**1299 engineering commits &middot; 83 active development days &middot; last 12 months**
+**1467 engineering commits &middot; 86 active development days &middot; Aug 2025 – Aug 2026**
 
 <sub>
-Aggregate engineering activity from Mingo's private development history.<br />
+Aggregate engineering activity across Mingo's incubation and platform development history, including Taaza Kitchen commerce engineering and Mingo platform development.<br />
 Source code and repository details remain proprietary.
 </sub>
 
