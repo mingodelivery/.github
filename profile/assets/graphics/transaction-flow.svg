@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200">
+  <style>
+    .node { font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; fill: #ffffff; text-anchor: middle; }
+    .node-bg { fill: #1f1f1f; stroke: #ff9800; stroke-width: 2; rx: 6; }
+    .arrow { fill: #555; }
+    .line { stroke: #555; stroke-width: 2; }
+    .ai-node { fill: #2d1806; stroke: #ff6d00; stroke-width: 2; rx: 15; }
+    .ai-text { font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; fill: #ff9800; text-anchor: middle; }
+  </style>
+  <rect width="1000" height="200" fill="#0d1117" />
+  
+  <!-- Nodes (10 items basically) -->
+  <rect x="20" y="50" width="80" height="40" class="node-bg" />
+  <text x="60" y="75" class="node">Customer</text>
+  
+  <line x1="100" y1="70" x2="125" y2="70" class="line" />
+  <polygon points="120,65 130,70 120,75" class="arrow" />
+  
+  <rect x="130" y="50" width="80" height="40" class="node-bg" />
+  <text x="170" y="75" class="node">Order</text>
+  
+  <line x1="210" y1="70" x2="235" y2="70" class="line" />
+  <polygon points="230,65 240,70 230,75" class="arrow" />
+  
+  <rect x="240" y="50" width="80" height="40" class="node-bg" />
+  <text x="280" y="75" class="node">Checkout</text>
+  
+  <line x1="320" y1="70" x2="345" y2="70" class="line" />
+  <polygon points="340,65 350,70 340,75" class="arrow" />
+  
+  <rect x="350" y="50" width="80" height="40" class="node-bg" />
+  <text x="390" y="75" class="node">Payment</text>
+  
+  <line x1="430" y1="70" x2="455" y2="70" class="line" />
+  <polygon points="450,65 460,70 450,75" class="arrow" />
+  
+  <rect x="460" y="50" width="80" height="40" class="node-bg" />
+  <text x="500" y="75" class="node">POS</text>
+  
+  <line x1="540" y1="70" x2="565" y2="70" class="line" />
+  <polygon points="560,65 570,70 560,75" class="arrow" />
+  
+  <rect x="570" y="50" width="80" height="40" class="node-bg" />
+  <text x="610" y="75" class="node">Kitchen</text>
+  
+  <line x1="650" y1="70" x2="675" y2="70" class="line" />
+  <polygon points="670,65 680,70 670,75" class="arrow" />
+  
+  <rect x="680" y="50" width="80" height="40" class="node-bg" />
+  <text x="720" y="75" class="node">Rider</text>
+  
+  <line x1="760" y1="70" x2="785" y2="70" class="line" />
+  <polygon points="780,65 790,70 780,75" class="arrow" />
+  
+  <rect x="790" y="50" width="80" height="40" class="node-bg" />
+  <text x="830" y="75" class="node">Delivery</text>
+  
+  <line x1="870" y1="70" x2="895" y2="70" class="line" />
+  <polygon points="890,65 900,70 890,75" class="arrow" />
+  
+  <rect x="900" y="50" width="80" height="40" class="node-bg" />
+  <text x="940" y="75" class="node">Operations</text>
+  
+  <!-- AI Node at the bottom spanning across Operations -->
+  <line x1="500" y1="90" x2="500" y2="120" class="line" />
+  <rect x="20" y="120" width="960" height="40" class="ai-node" />
+  <text x="500" y="146" class="ai-text">MINGO AI (Operational Intelligence)</text>
+</svg>

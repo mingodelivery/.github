@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./assets/mingo-logo.svg" alt="Mingo Logo" width="120" />
-  
-  <h1>Mingo</h1>
-  
-  <h3>Fair infrastructure for commerce, delivery and mobility.</h3>
-  
-  <p>Mingo connects restaurants, customers and delivery partners through a proprietary technology platform with an open-access, fair-economics network model.</p>
+  <img src="./assets/graphics/mingo-hero.svg" alt="Mingo - Fair infrastructure for commerce, delivery and mobility" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <p>Mingo connects restaurants, customers and delivery partners through one technology platform — with transparent network economics instead of traditional percentage marketplace commissions.</p>
 </div>
 
 <br />
@@ -13,131 +13,212 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <strong>₹10 FLAT PLATFORM FEE</strong><br />
-        <em>Launching model — per completed transaction</em>
+        <em>Launch model · per completed transaction</em>
       </td>
-      <td align="center">
+      <td align="center" width="50%">
         <strong>NO PERCENTAGE MARKETPLACE COMMISSION</strong><br />
-        <em>Payment processing and delivery economics shown separately</em>
+        <em>Payment processing and delivery shown separately</em>
       </td>
     </tr>
   </table>
+  <br />
+  <a href="https://mingodelivery.com">Website</a> &nbsp;&middot;&nbsp; 
+  <a href="mailto:partners@mingodelivery.com">Partner with Mingo</a>
 </div>
 
-## Why Mingo
+<br />
 
-Modern delivery marketplaces proved the value of connected commerce infrastructure. Mingo is approaching the economics differently: **small transparent network fees** instead of large percentage marketplace commissions.
+## The Problem
 
-## The Mingo Principle
+Traditional marketplace economics often scale platform charges as a percentage of transaction value. That means when the restaurant sells more, platform charges also increase.
 
-| RESTAURANTS WIN | RIDERS / DRIVERS WIN | CUSTOMERS WIN | MINGO WINS |
-| :--- | :--- | :--- | :--- |
-| Control menu economics and retain control over pricing. | Participate in transparent delivery/mobility economics. | Enjoy transparent pricing and fewer hidden fees. | Earns sustainably through network transaction scale. |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>TRADITIONAL PERCENTAGE MODEL</strong><br /><br />
+      ₹1,000 order<br />
+      ↓<br />
+      percentage-based marketplace charge
+    </td>
+    <td align="center" width="50%">
+      <strong>MINGO LAUNCH MODEL</strong><br /><br />
+      ₹1,000 order<br />
+      ↓<br />
+      ₹10 Mingo platform fee<br />
+      <em>(payment processing & delivery separate)</em>
+    </td>
+  </tr>
+</table>
 
-## Phase 1 — Restaurant Commerce
+## A network designed to grow through transactions, not transaction extraction.
 
-Mingo connects the entire restaurant transaction lifecycle through a cohesive product ecosystem:
+Mingo's model is designed around a small transparent network fee. Restaurants should be able to sell more without handing a growing percentage of their menu value to the technology platform. Mingo grows when more transactions flow through the network.
 
-| 🛒 Mingo Delivery | 💳 Mingo POS | 🎛️ Mingo Admin |
-| :--- | :--- | :--- |
-| Customer marketplace and ordering | Restaurant billing and operations | Platform command centre |
+<br />
 
-| 🍳 Mingo Kitchen | 🛵 Mingo Rider | 📊 Mingo Owner |
-| :--- | :--- | :--- |
-| Kitchen operations / KDS | Delivery-partner application | Owner/business visibility |
+<table>
+  <tr>
+    <td width="25%">
+      <strong>RESTAURANT</strong><br /><br />
+      Control pricing and menu economics. No traditional percentage marketplace commission under the launch model.
+    </td>
+    <td width="25%">
+      <strong>RIDER / DRIVER</strong><br /><br />
+      Transparent delivery/mobility economics.
+    </td>
+    <td width="25%">
+      <strong>CUSTOMER</strong><br /><br />
+      Clear separation between commerce value, platform fee, payment and delivery.
+    </td>
+    <td width="25%">
+      <strong>MINGO</strong><br /><br />
+      Builds sustainable revenue through transaction scale and managed services.
+    </td>
+  </tr>
+</table>
 
-| 📱 Mingo Kiosk | 👥 Mingo People | 🤖 Mingo AI |
-| :--- | :--- | :--- |
-| Self-ordering | Workforce operations | Operational intelligence |
+## One Platform. The Restaurant Operating Network.
 
-## One Connected Transaction
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./assets/apps/delivery.png" width="80"><br>
+      <strong>MINGO DELIVERY</strong><br>
+      <em>Customer ordering</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/apps/pos.png" width="80"><br>
+      <strong>MINGO POS</strong><br>
+      <em>Restaurant billing</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/apps/kitchen.png" width="80"><br>
+      <strong>MINGO KITCHEN</strong><br>
+      <em>Kitchen execution</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./assets/apps/rider.png" width="80"><br>
+      <strong>MINGO RIDER</strong><br>
+      <em>Delivery operations</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/apps/owner.png" width="80"><br>
+      <strong>MINGO OWNER</strong><br>
+      <em>Business visibility</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/apps/people.png" width="80"><br>
+      <strong>MINGO PEOPLE</strong><br>
+      <em>Workforce operations</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./assets/apps/store.png" width="80"><br>
+      <strong>MINGO STORE</strong><br>
+      <em>Commerce storefront</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/apps/supply.png" width="80"><br>
+      <strong>MINGO SUPPLY</strong><br>
+      <em>Supply operations</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/apps/ai-admin.svg" width="80"><br>
+      <strong>MINGO AI / ADMIN</strong><br>
+      <em>Intelligence & control</em>
+    </td>
+  </tr>
+</table>
 
-```mermaid
-graph LR
-  C[Customer] --> M[Marketplace]
-  M --> Ch[Checkout]
-  Ch --> P[Payment]
-  P --> POS[POS]
-  POS --> K[Kitchen]
-  K --> R[Rider]
-  R --> D[Delivery]
-  D --> O[Operations]
-  O --> AI[Mingo AI]
-```
+<div align="center">
+  <img src="./assets/graphics/mingo-platform.svg" width="100%" alt="Mingo Platform Ecosystem" />
+</div>
 
-## Transparent Network Economics
+<br />
 
-*Illustrative network economics — not profit or forecast.*
+<div align="center">
+  <img src="./assets/graphics/transaction-flow.svg" width="100%" alt="One Connected Transaction" />
+</div>
+<br />
+<em>Mingo Core remains authoritative for transactional and financial truth. Mingo AI assists operational intelligence.</em>
 
-**Example: ₹1,000 restaurant transaction**
+## Simple economics. Transparent by design.
 
-- **Restaurant commerce value:** ₹1,000
-- **Mingo platform fee:** ₹10
-- **Payment processing:** Separate
-- **Delivery:** Separate
+<table>
+  <tr>
+    <td>
+      <strong>ILLUSTRATIVE ₹1,000 RESTAURANT TRANSACTION</strong><br /><br />
+      Restaurant commerce value: <strong>₹1,000</strong><br />
+      Mingo platform fee: <strong>₹10</strong><br />
+      Payment processing: <em>Separate</em><br />
+      Delivery: <em>Separate</em><br /><br />
+      <em>Illustrative fee-model example. Not settlement, profit or investment forecast.</em>
+    </td>
+  </tr>
+</table>
 
-**Network Scale Illustration:**
-1,000 completed transactions/day × ₹10 = ₹10,000/day gross Mingo platform-fee revenue
+**Illustrative Network Scale:**
+- **100 transactions/day** → ₹1,000/day Mingo platform-fee revenue
+- **1,000 transactions/day** → ₹10,000/day
+- **10,000 transactions/day** → ₹100,000/day
 
-## Phase 2 — Mobility
+*Illustrative network economics — before taxes and operating costs.*
 
-*Roadmap: extending the Mingo network model from delivery into local mobility.*
+## Software enables the network. Services sustain it.
 
-Restaurant delivery is the first network. The same fair-network architecture is intended to expand into local mobility.
+Mingo software and operating technology remain proprietary. The commercial streams that sustain the platform include:
 
-```mermaid
-graph TD
-  RC[Restaurant Commerce] --> DN[Delivery Network]
-  DN --> MN[Mobility Network]
-```
-
-## How Mingo Makes Money
-
-Mingo software remains proprietary. Our commercial model is built on transparent value rather than extraction:
-
-- Flat network/platform fees
-- Managed hosting/infrastructure
-- Maintenance and support
+- Flat platform/network fee
+- Managed infrastructure
+- Maintenance & support
 - Payment orchestration/service economics
 - Enterprise integrations
 - API/integration services
 - Premium operational services
 
-## Technology
+<br />
+<div align="center">
+  <img src="./assets/graphics/roadmap.svg" width="100%" alt="Roadmap" />
+</div>
+<br />
+<em>The same fair-network principle is intended to expand from restaurant delivery into local mobility.</em>
 
-- **Connected commerce platform**
-- **Realtime operations**
-- **Payments & POS**
-- **Marketplace & Delivery**
-- **Mobility-ready network architecture**
-- **Operational intelligence / Mingo AI**
+## Built for network density
 
-*Mingo Core remains authoritative for transactional and financial truth. AI assists operations rather than replacing core business authorities.*
+Mingo does not need to maximize revenue on each restaurant order. The model becomes stronger as more restaurants, customers and riders transact through shared infrastructure.
 
-## Our Journey
+**MORE RESTAURANTS + MORE CUSTOMERS + MORE RIDERS → MORE TRANSACTIONS → SUSTAINABLE NETWORK ECONOMICS**
 
-```mermaid
-graph LR
-  HD[Highwater Digital] --> MI[Mingo Incubation & Engineering]
-  MI --> RC[Restaurant Commerce Platform]
-  RC --> DN[Delivery Network]
-  DN --> OI[Independent Mingo Operating Identity]
-  OI --> FM[Future Mobility Network]
-```
-*Mingo was incubated and engineered by Highwater Digital and is now evolving into a dedicated independent platform and operating identity.*
+## Technology built around the transaction
 
-## Build With / Partner With Mingo
+- Restaurant operations
+- Marketplace commerce
+- Realtime order coordination
+- Payments
+- Delivery operations
+- Workforce and owner tools
+- Operational intelligence
+- Mobility-ready platform direction
 
-We partner with:
-- Restaurants
-- Delivery partners
-- Riders & Drivers
-- Technology providers
-- Payment/integration partners
-- Investors
+*Mingo Core remains authoritative for transactional and financial truth. Mingo AI assists operations without replacing core business authorities. Core Mingo product repositories are private.*
 
-## Contact
+<br />
+<div align="center">
+  <img src="./assets/graphics/journey.svg" width="100%" alt="The Mingo Journey" />
+</div>
+<br />
+<em>Mingo was incubated and engineered by Highwater Digital and is now evolving into a dedicated independent platform and operating identity.</em>
+
+## Build the network with us.
+
+Mingo is starting with one of the most transaction-dense parts of local commerce: restaurants and delivery. The long-term direction is broader: fair infrastructure for commerce, delivery and mobility.
+
+We partner with restaurants, delivery partners, riders, drivers, technology providers, payment/integration partners, and investors.
 
 **Website:** [https://mingodelivery.com](https://mingodelivery.com)  
 **Partnerships:** [partners@mingodelivery.com](mailto:partners@mingodelivery.com)

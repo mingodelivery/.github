@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <style>
+    .title { font-family: -apple-system, sans-serif; font-size: 18px; font-weight: bold; fill: #ffffff; text-anchor: middle; }
+    .subtitle { font-family: -apple-system, sans-serif; font-size: 14px; fill: #b0bec5; text-anchor: middle; }
+    .box { fill: #1a1a1a; stroke: #444; stroke-width: 2; rx: 8; }
+    .box-orange { fill: #2d1806; stroke: #ff9800; stroke-width: 2; rx: 8; }
+    .text-orange { font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #ff9800; text-anchor: middle; }
+    .text-main { font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #ffffff; text-anchor: middle; }
+    .list { font-family: -apple-system, sans-serif; font-size: 14px; fill: #cfd8dc; text-anchor: middle; }
+    .line { stroke: #555; stroke-width: 2; }
+    .arrow { fill: #555; }
+  </style>
+  <rect width="800" height="300" fill="#0d1117" />
+  
+  <!-- Phase 1 -->
+  <rect x="100" y="40" width="220" height="220" class="box" />
+  <text x="210" y="70" class="title">PHASE 1</text>
+  <text x="210" y="95" class="text-orange">RESTAURANT COMMERCE</text>
+  <text x="210" y="125" class="list">Ordering &bull; POS</text>
+  <text x="210" y="150" class="list">Kitchen &bull; Payments</text>
+  <text x="210" y="175" class="list">Delivery &bull; Operations</text>
+  <text x="210" y="200" class="list">Mingo AI</text>
+  
+  <line x1="320" y1="150" x2="475" y2="150" class="line" />
+  <polygon points="465,145 475,150 465,155" class="arrow" />
+  <text x="400" y="140" class="text-main">MINGO NETWORK</text>
+  
+  <!-- Phase 2 -->
+  <rect x="480" y="40" width="220" height="220" class="box-orange" />
+  <text x="590" y="70" class="title">PHASE 2 (ROADMAP)</text>
+  <text x="590" y="95" class="text-orange">LOCAL MOBILITY</text>
+  <text x="590" y="125" class="list">Driver network &bull; Dispatch</text>
+  <text x="590" y="150" class="list">Payments &bull; Identity</text>
+  <text x="590" y="175" class="list">Location &bull; Operations</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150">
+  <style>
+    .node { font-family: -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #ffffff; text-anchor: middle; }
+    .node-sub { font-family: -apple-system, sans-serif; font-size: 12px; fill: #b0bec5; text-anchor: middle; }
+    .node-bg { fill: #1a1a1a; stroke: #444; stroke-width: 2; rx: 6; }
+    .node-bg-orange { fill: #2d1806; stroke: #ff9800; stroke-width: 2; rx: 6; }
+    .arrow { fill: #555; }
+    .line { stroke: #555; stroke-width: 2; }
+  </style>
+  <rect width="1000" height="150" fill="#0d1117" />
+  
+  <rect x="20" y="40" width="160" height="60" class="node-bg" />
+  <text x="100" y="65" class="node">HIGHWATER DIGITAL</text>
+  <text x="100" y="85" class="node-sub">Incubation &amp; engineering</text>
+  
+  <line x1="180" y1="70" x2="215" y2="70" class="line" />
+  <polygon points="210,65 220,70 210,75" class="arrow" />
+  
+  <rect x="220" y="40" width="160" height="60" class="node-bg" />
+  <text x="300" y="65" class="node">MINGO</text>
+  <text x="300" y="85" class="node-sub">Restaurant platform</text>
+  
+  <line x1="380" y1="70" x2="415" y2="70" class="line" />
+  <polygon points="410,65 420,70 410,75" class="arrow" />
+  
+  <rect x="420" y="40" width="160" height="60" class="node-bg-orange" />
+  <text x="500" y="65" class="node" fill="#ff9800">MINGO DELIVERY</text>
+  <text x="500" y="85" class="node-sub">Commerce &amp; delivery</text>
+  
+  <line x1="580" y1="70" x2="615" y2="70" class="line" />
+  <polygon points="610,65 620,70 610,75" class="arrow" />
+  
+  <rect x="620" y="40" width="160" height="60" class="node-bg" />
+  <text x="700" y="65" class="node">INDEPENDENT IDENTITY</text>
+  <text x="700" y="85" class="node-sub">Dedicated org</text>
+  
+  <line x1="780" y1="70" x2="815" y2="70" class="line" />
+  <polygon points="810,65 820,70 810,75" class="arrow" />
+  
+  <rect x="820" y="40" width="160" height="60" class="node-bg" />
+  <text x="900" y="65" class="node">MOBILITY</text>
+  <text x="900" y="85" class="node-sub">Future roadmap</text>
+</svg>
